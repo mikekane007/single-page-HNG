@@ -9,5 +9,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     updateTime();
-    setInterval(updateTime, 60000); // Update time every minute
+    setInterval(updateTime, 60000); 
 });
